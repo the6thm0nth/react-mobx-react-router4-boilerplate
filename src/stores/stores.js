@@ -1,7 +1,7 @@
-import { store } from "rfx-core";
+import { store } from "rfx-core"
 
-import AppState from "./AppState";
+import auth from "./auth"
 
 export default store.setup({
-	appState: AppState
-});
+  auth
+})
