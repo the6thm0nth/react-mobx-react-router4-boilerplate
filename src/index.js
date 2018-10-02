@@ -6,6 +6,7 @@ import { AppContainer } from "react-hot-loader"
 import { rehydrate, hotRehydrate } from "rfx-core"
 
 import { isProduction } from "./utils/constants"
+import stores from "@/stores/stores"
 import App from "./App"
 
 import("./styles/main.scss")
