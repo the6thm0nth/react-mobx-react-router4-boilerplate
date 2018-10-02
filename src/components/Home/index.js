@@ -16,7 +16,7 @@ export default () => {
         </div>
         <div className="github-buttons">
           <a
-            href="https://github.com/mhaagens/react-mobx-react-router4-boilerplate"
+            href="https://github.com/the6thm0nth/react-mobx-react-router4-boilerplate"
             target="_blank"
           >
             Download from GitHub
